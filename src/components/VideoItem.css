@@ -1,0 +1,12 @@
+.videp-item{
+    display: flex !important;
+    align-items: center !important;
+    cursor: pointer;
+}
+
+.video-item.item img {
+    max-width: 120px;
+}
+.img{
+    max-width: 50% !important;
+}
